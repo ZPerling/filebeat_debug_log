@@ -1,0 +1,286 @@
+    2020-07-07T11:26:54.787Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.787Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.787Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.789Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.789Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.789Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.796Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.797Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.801Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.802Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.802Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.802Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.831Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.831Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.831Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.831Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.832Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:421	Check file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:511	Update existing file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log, offset: 0
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:565	File didn't change: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:421	Check file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:511	Update existing file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:520	Resuming harvesting of file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30, new size: 35
+    2020-07-07T11:26:54.833Z	DEBUG	[harvester]	log/harvester.go:568	Set previous offset for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log. Offset: 30
+    2020-07-07T11:26:54.833Z	DEBUG	[harvester]	log/harvester.go:559	Setting offset for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log. Offset: 30
+    2020-07-07T11:26:54.833Z	DEBUG	[harvester]	log/harvester.go:205	Harvester setup successful. Line terminator: 1
+    2020-07-07T11:26:54.833Z	DEBUG	[publisher]	pipeline/client.go:220	Pipeline client receives callback 'onFilteredOut' for event: {Timestamp:0001-01-01 00:00:00 +0000 UTC Meta:null Fields:null Private:{Id: Finished:false Fileinfo:0xc000ffde10 Source:/data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log Offset:30 Timestamp:2020-07-07 11:26:54.833434984 +0000 UTC m=+20.197231461 TTL:-1ns Type:log Meta:map[] FileStateOS:131422-64272} TimeSeries:false}
+    2020-07-07T11:26:54.833Z	DEBUG	[harvester]	log/harvester.go:478	Update state: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30
+    2020-07-07T11:26:54.833Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 2, After: 2, Pending: 0
+    2020-07-07T11:26:54.833Z	INFO	log/harvester.go:297	Harvester started for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log
+    2020-07-07T11:26:54.833Z	DEBUG	[acker]	beater/acker.go:64	stateful ack	{"count": 1}
+    2020-07-07T11:26:54.833Z	DEBUG	[registrar]	registrar/registrar.go:356	Processing 1 events
+    2020-07-07T11:26:54.833Z	DEBUG	[registrar]	registrar/registrar.go:326	Registrar state updates processed. Count: 1
+    2020-07-07T11:26:54.833Z	DEBUG	[registrar]	registrar/registrar.go:411	Write registry file: /tmp/filebeat/data/registry/filebeat/data.json (12)
+    2020-07-07T11:26:54.833Z	DEBUG	[processors]	processing/processors.go:186	Publish event: {
+    "@timestamp": "2020-07-07T11:26:54.833Z",
+    "@metadata": {
+        "beat": "filebeat",
+        "type": "_doc",
+        "version": "7.6.2"
+    },
+    "fagent": "filebeat-t2zns",
+    "message": "8888",
+    "kubernetes": {
+        "pod_name": "approval-flow-stag-stag-79fd977c79-s7t9j",
+        "labels": {
+        "cop": "kuaikan",
+        "owt": "op",
+        "pdl": "devops",
+        "service": "approval-flow-stag",
+        "cluster": "stag",
+        "track": "normal",
+        "servicegroup": "infr",
+        "service_istio_io/canonical-revision": "latest",
+        "security_istio_io/tlsMode": "istio",
+        "kafkaTopic": "k8s_op_devops_approval-flow-stag_stag",
+        "service_istio_io/canonical-name": "approval-flow-stag-stag"
+        },
+        "namespace": "op-stag",
+        "replicaset_name": "approval-flow-stag-stag-79fd977c79",
+        "node_name": "10.76.2.246"
+    },
+    "log_path": "/data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log"
+    }
+    2020-07-07T11:26:54.833Z	DEBUG	[harvester]	log/log.go:107	End of file reached: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log; Backoff now.
+    2020-07-07T11:26:54.834Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.834Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.834Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.834Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.834Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.834Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.835Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.835Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.835Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:421	Check file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:511	Update existing file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log, offset: 0
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:565	File didn't change: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:421	Check file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:511	Update existing file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:520	Resuming harvesting of file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30, new size: 35
+    2020-07-07T11:26:54.837Z	DEBUG	[harvester]	log/harvester.go:568	Set previous offset for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log. Offset: 30
+    2020-07-07T11:26:54.837Z	DEBUG	[harvester]	log/harvester.go:559	Setting offset for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log. Offset: 30
+    2020-07-07T11:26:54.837Z	DEBUG	[harvester]	log/harvester.go:205	Harvester setup successful. Line terminator: 1
+    2020-07-07T11:26:54.837Z	DEBUG	[publisher]	pipeline/client.go:220	Pipeline client receives callback 'onFilteredOut' for event: {Timestamp:0001-01-01 00:00:00 +0000 UTC Meta:null Fields:null Private:{Id: Finished:false Fileinfo:0xc001001040 Source:/data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log Offset:30 Timestamp:2020-07-07 11:26:54.837410871 +0000 UTC m=+20.201207347 TTL:-1ns Type:log Meta:map[] FileStateOS:131422-64272} TimeSeries:false}
+    2020-07-07T11:26:54.837Z	DEBUG	[harvester]	log/harvester.go:478	Update state: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30
+    2020-07-07T11:26:54.837Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 2, After: 2, Pending: 0
+    2020-07-07T11:26:54.837Z	INFO	log/harvester.go:297	Harvester started for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log
+    2020-07-07T11:26:54.837Z	DEBUG	[acker]	beater/acker.go:64	stateful ack	{"count": 1}
+    2020-07-07T11:26:54.837Z	DEBUG	[processors]	processing/processors.go:186	Publish event: {
+    "@timestamp": "2020-07-07T11:26:54.837Z",
+    "@metadata": {
+        "beat": "filebeat",
+        "type": "_doc",
+        "version": "7.6.2"
+    },
+    "kubernetes": {
+        "namespace": "op-stag",
+        "pod_name": "approval-flow-stag-stag-79fd977c79-s7t9j",
+        "labels": {
+        "cluster": "stag",
+        "owt": "op",
+        "pdl": "devops",
+        "service": "approval-flow-stag",
+        "service_istio_io/canonical-name": "approval-flow-stag-stag",
+        "track": "normal",
+        "security_istio_io/tlsMode": "istio",
+        "kafkaTopic": "k8s_op_devops_approval-flow-stag_stag",
+        "service_istio_io/canonical-revision": "latest",
+        "cop": "kuaikan",
+        "servicegroup": "infr"
+        },
+        "replicaset_name": "approval-flow-stag-stag-79fd977c79",
+        "node_name": "10.76.2.246"
+    },
+    "message": "8888",
+    "log_path": "/data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log",
+    "fagent": "filebeat-t2zns"
+    }
+    2020-07-07T11:26:54.837Z	DEBUG	[harvester]	log/log.go:107	End of file reached: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log; Backoff now.
+    2020-07-07T11:26:54.846Z	DEBUG	[registrar]	registrar/registrar.go:404	Registry file updated. 12 states written.
+    2020-07-07T11:26:54.846Z	DEBUG	[registrar]	registrar/registrar.go:356	Processing 1 events
+    2020-07-07T11:26:54.846Z	DEBUG	[registrar]	registrar/registrar.go:326	Registrar state updates processed. Count: 1
+    2020-07-07T11:26:54.846Z	DEBUG	[registrar]	registrar/registrar.go:411	Write registry file: /tmp/filebeat/data/registry/filebeat/data.json (12)
+    2020-07-07T11:26:54.848Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.848Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.848Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.848Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.848Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.848Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:421	Check file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:511	Update existing file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log, offset: 0
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:565	File didn't change: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/access.log
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:421	Check file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:511	Update existing file for harvesting: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:520	Resuming harvesting of file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30, new size: 35
+    2020-07-07T11:26:54.849Z	DEBUG	[harvester]	log/harvester.go:568	Set previous offset for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log. Offset: 30
+    2020-07-07T11:26:54.849Z	DEBUG	[harvester]	log/harvester.go:559	Setting offset for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log. Offset: 30
+    2020-07-07T11:26:54.849Z	DEBUG	[harvester]	log/harvester.go:205	Harvester setup successful. Line terminator: 1
+    2020-07-07T11:26:54.849Z	DEBUG	[publisher]	pipeline/client.go:220	Pipeline client receives callback 'onFilteredOut' for event: {Timestamp:0001-01-01 00:00:00 +0000 UTC Meta:null Fields:null Private:{Id: Finished:false Fileinfo:0xc000599520 Source:/data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log Offset:30 Timestamp:2020-07-07 11:26:54.849073916 +0000 UTC m=+20.212870393 TTL:-1ns Type:log Meta:map[] FileStateOS:131422-64272} TimeSeries:false}
+    2020-07-07T11:26:54.849Z	DEBUG	[harvester]	log/harvester.go:478	Update state: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log, offset: 30
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 2, After: 2, Pending: 0
+    2020-07-07T11:26:54.849Z	DEBUG	[acker]	beater/acker.go:64	stateful ack	{"count": 1}
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.849Z	INFO	log/harvester.go:297	Harvester started for file: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log
+    2020-07-07T11:26:54.849Z	DEBUG	[processors]	processing/processors.go:186	Publish event: {
+    "@timestamp": "2020-07-07T11:26:54.849Z",
+    "@metadata": {
+        "beat": "filebeat",
+        "type": "_doc",
+        "version": "7.6.2"
+    },
+    "message": "8888",
+    "kubernetes": {
+        "replicaset_name": "approval-flow-stag-stag-79fd977c79",
+        "node_name": "10.76.2.246",
+        "pod_name": "approval-flow-stag-stag-79fd977c79-s7t9j",
+        "namespace": "op-stag",
+        "labels": {
+        "owt": "op",
+        "service_istio_io/canonical-revision": "latest",
+        "security_istio_io/tlsMode": "istio",
+        "kafkaTopic": "k8s_op_devops_approval-flow-stag_stag",
+        "track": "normal",
+        "cluster": "stag",
+        "cop": "kuaikan",
+        "servicegroup": "infr",
+        "pdl": "devops",
+        "service": "approval-flow-stag",
+        "service_istio_io/canonical-name": "approval-flow-stag-stag"
+        }
+    },
+    "log_path": "/data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log",
+    "fagent": "filebeat-t2zns"
+    }
+    2020-07-07T11:26:54.849Z	DEBUG	[harvester]	log/log.go:107	End of file reached: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log; Backoff now.
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	input/input.go:152	Run input
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:191	Start next scan
+    2020-07-07T11:26:54.849Z	DEBUG	[input]	log/input.go:212	input states cleaned up. Before: 0, After: 0, Pending: 0
+    2020-07-07T11:26:54.853Z	DEBUG	[registrar]	registrar/registrar.go:404	Registry file updated. 12 states written.
+    2020-07-07T11:26:54.854Z	DEBUG	[registrar]	registrar/registrar.go:356	Processing 1 events
+    2020-07-07T11:26:54.854Z	DEBUG	[registrar]	registrar/registrar.go:326	Registrar state updates processed. Count: 1
+    2020-07-07T11:26:54.854Z	DEBUG	[registrar]	registrar/registrar.go:411	Write registry file: /tmp/filebeat/data/registry/filebeat/data.json (12)
+    2020-07-07T11:26:54.860Z	DEBUG	[registrar]	registrar/registrar.go:404	Registry file updated. 12 states written.
+    2020-07-07T11:26:55.834Z	INFO	pipeline/output.go:95	Connecting to kafka(kk-stage-broker1.kafka.kk.srv:9092,kk-stage-broker1.kafka.kk.srv:9092,kk-stage-broker1.kafka.kk.srv:9092,kk-stage-broker2.kafka.kk.srv:9092,kk-stage-broker2.kafka.kk.srv:9092,kk-stage-broker2.kafka.kk.srv:9092,kk-stage-broker3.kafka.kk.srv:9092,kk-stage-broker3.kafka.kk.srv:9092,kk-stage-broker3.kafka.kk.srv:9092)
+    2020-07-07T11:26:55.834Z	DEBUG	[kafka]	kafka/client.go:93	connect: [kk-stage-broker1.kafka.kk.srv:9092 kk-stage-broker1.kafka.kk.srv:9092 kk-stage-broker1.kafka.kk.srv:9092 kk-stage-broker2.kafka.kk.srv:9092 kk-stage-broker2.kafka.kk.srv:9092 kk-stage-broker2.kafka.kk.srv:9092 kk-stage-broker3.kafka.kk.srv:9092 kk-stage-broker3.kafka.kk.srv:9092 kk-stage-broker3.kafka.kk.srv:9092]
+    2020-07-07T11:26:55.834Z	INFO	kafka/log.go:53	kafka message: Initializing new client
+    2020-07-07T11:26:55.834Z	INFO	kafka/log.go:53	kafka message: Successfully initialized new client
+    2020-07-07T11:26:55.834Z	INFO	pipeline/output.go:105	Connection to kafka(kk-stage-broker1.kafka.kk.srv:9092,kk-stage-broker1.kafka.kk.srv:9092,kk-stage-broker1.kafka.kk.srv:9092,kk-stage-broker2.kafka.kk.srv:9092,kk-stage-broker2.kafka.kk.srv:9092,kk-stage-broker2.kafka.kk.srv:9092,kk-stage-broker3.kafka.kk.srv:9092,kk-stage-broker3.kafka.kk.srv:9092,kk-stage-broker3.kafka.kk.srv:9092) established
+    2020-07-07T11:26:55.834Z	DEBUG	[harvester]	log/log.go:107	End of file reached: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log; Backoff now.
+    2020-07-07T11:26:55.834Z	INFO	kafka/log.go:53	client/metadata fetching metadata for [k8s_op_devops_approval-flow-stag_stag] from broker kk-stage-broker2.kafka.kk.srv:9092
+
+    2020-07-07T11:26:55.838Z	DEBUG	[harvester]	log/log.go:107	End of file reached: /data/logs/approval-flow-stag-stag_op-stag/approval-flow-stag-stag-79fd977c79-s7t9j/approval-flow/test.log; Backoff now.
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	Connected to broker at kk-stage-broker2.kafka.kk.srv:9092 (unregistered)
+
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	client/brokers registered new broker #20 at 10.76.0.20:9092
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	client/brokers registered new broker #34 at 10.76.0.34:9092
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	client/brokers registered new broker #19 at 10.76.0.19:9092
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	producer/broker/20 starting up
+
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	producer/broker/20 state change to [open] on k8s_op_devops_approval-flow-stag_stag/0
+
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	producer/broker/34 starting up
+
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	producer/broker/34 state change to [open] on k8s_op_devops_approval-flow-stag_stag/1
+
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	producer/broker/19 starting up
+
+    2020-07-07T11:26:55.838Z	INFO	kafka/log.go:53	producer/broker/19 state change to [open] on k8s_op_devops_approval-flow-stag_stag/2
+
+    2020-07-07T11:26:55.839Z	INFO	kafka/log.go:53	Connected to broker at 10.76.0.34:9092 (registered as #34)
+
+    2020-07-07T11:26:55.839Z	INFO	kafka/log.go:53	Connected to broker at 10.76.0.19:9092 (registered as #19)
+
+    2020-07-07T11:26:55.840Z	INFO	kafka/log.go:53	Connected to broker at 10.76.0.20:9092 (registered as #20)
+
+    2020-07-07T11:26:55.848Z	DEBUG	[kafka]	kafka/client.go:273	finished kafka batch
+    2020-07-07T11:26:55.848Z	DEBUG	[publisher]	memqueue/ackloop.go:160	ackloop: receive ack [0: 0, 3]
+    2020-07-07T11:26:55.848Z	DEBUG	[publisher]	memqueue/eventloop.go:535	broker ACK events: count=1, start-seq=1, end-seq=1
+
+    2020-07-07T11:26:55.848Z	DEBUG	[publisher]	memqueue/eventloop.go:535	broker ACK events: count=1, start-seq=1, end-seq=1
+
+    2020-07-07T11:26:55.848Z	DEBUG	[publisher]	memqueue/eventloop.go:535	broker ACK events: count=1, start-seq=1, end-seq=1
+
+    2020-07-07T11:26:55.848Z	DEBUG	[publisher]	memqueue/ackloop.go:128	ackloop: return ack to broker loop:3
+    2020-07-07T11:26:55.848Z	DEBUG	[publisher]	memqueue/ackloop.go:131	ackloop:  done send ack
+    2020-07-07T11:26:55.848Z	DEBUG	[acker]	beater/acker.go:64	stateful ack	{"count": 3}
